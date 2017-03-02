@@ -1,4 +1,4 @@
-﻿Dutranslator.languages.push(['fr','Français']);
+Dutranslator.languages.push(['pl','Polski']);
 var DutranslatorArray = [];
 DutranslatorArray.push(["INSTALLATION",1,"INSTALLATION"]);
 DutranslatorArray.push(["Duik needs to be allowed to write files to display its buttons, and to access the network to check for updates.",0,"Duik doit pouvoir écrire des fichiers pour afficher ses boutons, et avoir accès au réseau pour chercher des mises à jours."]);
@@ -353,9 +353,9 @@ DutranslatorArray.push(["Create",0,"Créer"]);
 DutranslatorArray.push(["3-Layer IK & Goal",0,"IK à 3 calques & Goal"]);
 DutranslatorArray.push(["3-Layer IK",0,"IK à 3 calques"]);
 DutranslatorArray.push(["2-Layer IK & Goal",0,"IK à 2 calques & Goal"]);
-DutranslatorArray.push(["1-Layer IK & Goal",0,"IK à 1 calque & Goal"]);
+DutranslatorArray.push(["1-Layer IK & Goal",0,"IK à 1 calques & Goal"]);
 DutranslatorArray.push(["2-Layer IK",0,"IK à 2 calques"]);
-DutranslatorArray.push(["1-Layer IK (LookAt)",0,"IK à 1 calque (LookAt)"]);
+DutranslatorArray.push(["1-Layer IK (LookAt)",0,"IK à 1 calques (LookAt)"]);
 DutranslatorArray.push(["Front/Back view",0,"Vue Avant/Arrière"]);
 DutranslatorArray.push(["Left/Right view",0,"Vue Droite/Gauche"]);
 DutranslatorArray.push(["Sim.",0,"Sim."]);
@@ -517,4 +517,3 @@ DutranslatorArray.push(["Options:",0,"Options"]);
 DutranslatorArray.push(["Two curves",0,"Deux courbes"]);
 Dutranslator.localizedStrings.push(DutranslatorArray);
 delete DutranslatorArray;
-
